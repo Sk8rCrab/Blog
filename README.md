@@ -1,4 +1,4 @@
-example
+Example
 =======
 
-Jekyll example Project site
+My Jekyll blog for planning certifications
